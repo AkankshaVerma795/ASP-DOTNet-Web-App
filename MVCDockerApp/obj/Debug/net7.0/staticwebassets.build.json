@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q0yH8aI6+GM/mzORxdnX1ICjEA6v1LYDObmPMa6///k=",
+  "Source": "MVCDockerApp",
+  "BasePath": "_content/MVCDockerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
